@@ -18,3 +18,7 @@ With [Enhanced Wantlist Search]([url](https://github.com/OpAlliance/discogs_want
 
 <img width="1238" alt="image" src="https://github.com/user-attachments/assets/210e66fe-7acf-403b-9371-db54dbbd9837" /> 
 
+# Quick Start
+1. Clone the repository
+2. Log in to [Discogs]([url](https://www.discogs.com/settings/developers)) and generate your API Token. For more API Discogs documentation, [read here]([url](https://www.discogs.com/developers/))
+3. Input YOUR_API_TOKEN and YOUR_SELLER_USERNAME(name of a shop you want to fetch data from) into wantlist_vs_seller_matcher.ipynb and execute the Jupyter Notebook!
