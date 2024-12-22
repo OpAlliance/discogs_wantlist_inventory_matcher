@@ -15,7 +15,5 @@ With [Enhanced Wantlist Search]([url](https://github.com/OpAlliance/discogs_want
 <img width="648" alt="image" src="https://github.com/user-attachments/assets/bf1bbaf2-af0b-4b4f-9223-eb212d76107c" />
 <img width="1281" alt="image" src="https://github.com/user-attachments/assets/ca42db94-3aa2-409e-9499-7fb81c2af6ec" />
 
- + NEW MATCH
- + 
 <img width="1238" alt="image" src="https://github.com/user-attachments/assets/210e66fe-7acf-403b-9371-db54dbbd9837" /> 
 
