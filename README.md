@@ -1,7 +1,6 @@
-**Intro**: As discogs buyers, we always prefer the sellers that have multiple items from our wantlist, so we can order many records while paying for shipment as little as possible. 
+**Intro**: As Discogs buyers, we tend to prefer sellers who have multiple items from our wantlist. This allows us to order several records while minimizing shipping costs.
 
-**Problem**: Discogs engine matches the seller's inventory with our wantlist strictly based on release. So if we forgot to add all the releases of a certain master release (all the presses/versions of a record) to our wantlist, they will be skipped and wont get matched with the seller's inventory. Example: If an album was pressed in X and Y, and you have X in wantlist only but seller has Y - this vinyl wont be suggested to you, even though its the same band and same album!
-
+**Problem**: The Discogs engine matches a seller’s inventory to our wantlist strictly by release. If we forget to include all versions of a specific master release (such as different pressings or editions of the same album) in our wantlist, they won’t be matched with the seller’s inventory. For example, if an album has two pressings, X and Y, and you only have X on your wantlist, a seller offering Y won’t be suggested to you, even though it’s the same band and album.
 **Example**
 
 With Discogs Wantlist Search
