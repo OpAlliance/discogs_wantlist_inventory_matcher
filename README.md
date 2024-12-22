@@ -4,7 +4,8 @@ As Discogs buyers, we tend to prefer sellers who have multiple items from our wa
 
 # Problem
 The Discogs engine matches a seller’s inventory to our wantlist strictly by release. If we forget to include all versions of a specific master release (such as different pressings or editions of the same album) in our wantlist, they won’t be matched with the seller’s inventory. For example, if an album has two pressings, X and Y, and you only have X on your wantlist, a seller offering Y won’t be suggested to you, even though it’s the same band and album.
-
+# Solution
+The code enhances matching by using the API to fetch master IDs from your wantlist, retrieving the seller’s inventory, gathering all release versions of matched master releases, and cross-referencing them to identify matches between the wantlist and the seller’s inventory.
 ## Example
 With Discogs Wantlist Search
 
