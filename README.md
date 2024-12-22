@@ -1,1 +1,3 @@
-# discogs_wantlist_inventory_matcher
+Intro: As discogs buyers, we always prefer the sellers that have multiple items from our wantlist, so we can order many records while paying for shipment as little as possible. 
+
+Problem: Discogs engine matches the seller's inventory with our wantlist strictly based on release. So if we forgot to add all the releases of a certain master release (all the presses/versions of a record) to our wantlist, they will be skipped and wont get matched with the seller's inventory. Example: If an album was pressed in X and Y, and you have X in wantlist only but seller has Y - this vinyl wont be suggested to you, even though its the same band and same album!
